@@ -1,7 +1,7 @@
 Certainly! Here's a more detailed `README.md` file that includes information about the npm requirements for a project that uses Express.js, JWT authentication, dotenv for environment variables, and Mongoose for working with MongoDB:
 
 ```markdown
-# Fakebook Video Recorder
+# RecDor Video Recorder
 
 This is a web application for recording and managing videos with user authentication.
 
